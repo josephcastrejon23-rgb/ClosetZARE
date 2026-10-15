@@ -1,0 +1,10 @@
+{
+  "name": "Closet Love",
+  "short_name": "Closet Love",
+  "description": "Armario y maquillaje personal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffafc",
+  "theme_color": "#f7dce5",
+  "icons": []
+}
